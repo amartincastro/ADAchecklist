@@ -28,3 +28,7 @@ An ADA and accessibility checklist for web developers
   - Tip: adding tabindex attribute enables the CSS pseudoclass ":focus" to apply styles to the currently-focused item, like a highlight.
 -	Glossary of terms and acronyms accessible from app footer
 -	FAQ/Info/Tooltips available to describe specific functionalities that may not be obvious to naïve user
+
+## Additional Resources:
+- https://www.w3.org/TR/WCAG20/
+- https://accessible.org/wcag-20-guide/
