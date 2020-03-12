@@ -16,7 +16,7 @@ An ADA and accessibility checklist for web developers
 -	`<figure>` used where data visualization elements necessary, and <figcaption> provides description
 -	`<input>` fields have appropriate <label>s to indicate expected data type and parameters, id="" and name="" fields. Example date input:
   - `<input type="date" id="pickdate" name="date"></input>`
--	Radio button forms are surrounded by `<fieldset>`, include a <legend> description (not a <p>), and each `<input id="">` option has a corresponding `<label for=””>` that matches the `<input>`’s id. 
+-	Radio button forms are surrounded by `<fieldset>`, include a `<legend>` description (not a `<p>`), and each `<input id="">` option has a corresponding `<label for=””>` that matches the `<input>`’s id. 
 -	Standardized times / dates with HTML5 “datetime” attribute, e.g.:
   - `<time datetime="2020-03-20">Thursday, March 12th</time>`
 ## Usability & Accessibility Improvements:
